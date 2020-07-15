@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://blog.canyie.top/2020/06/10/hiddenapi-restriction-policy-on-android-r/</loc>
+    <lastmod>2020-06-10</lastmod>
+  </url>  <url>
+    <loc>https://blog.canyie.top/2020/04/27/dynamic-hooking-framework-on-art/</loc>
+    <lastmod>2020-04-27</lastmod>
+  </url>  <url>
+    <loc>https://blog.canyie.top/2020/02/15/fast-load-dex-on-art-runtime/</loc>
+    <lastmod>2020-04-15</lastmod>
+  </url>  <url>
+    <loc>https://blog.canyie.top/2019/10/28/hello-world/</loc>
+    <lastmod>2020-04-15</lastmod>
+  </url>  <url>
+    <loc>https://blog.canyie.top/2020/02/03/a-new-xposed-style-framework/</loc>
+    <lastmod>2020-02-05</lastmod>
+  </url>
+</urlset>

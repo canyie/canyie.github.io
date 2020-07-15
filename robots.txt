@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /img/
+Disallow: /data/
+
+Sitemap: http://blog.canyie.top/sitemap.xml
+Sitemap: http://blog.canyie.top/baidusitemap.xml
