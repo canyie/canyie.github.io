@@ -18,7 +18,7 @@
 
   <!-- 页面元数据 -->
   
-    <title>标签：注入 - 残页的小博客</title>
+    <title>标签：航空 - 残页的小博客</title>
   
   
 
@@ -309,8 +309,6 @@
         
           
         
-          
-        
       
     
     
@@ -329,8 +327,8 @@
         
           
   <h2 class="title">
-    <a href="/2020/08/18/nbinjection/">
-      通过系统的native bridge实现注入zygote
+    <a href="/2020/08/20/af447-in-aci/">
+      《空中浩劫》里的法航447
     </a>
   </h2>
 
@@ -355,7 +353,7 @@
               <div class="new-meta-item date">
   <a class='notlink'>
     <i class="fas fa-calendar-alt fa-fw" aria-hidden="true"></i>
-    <p>发布于2020年8月18日</p>
+    <p>发布于2020年8月20日</p>
   </a>
 </div>
 
@@ -366,13 +364,13 @@
   <div class="new-meta-item wordcount">
     <a class='notlink'>
       <i class="fas fa-keyboard fa-fw" aria-hidden="true"></i>
-      <p>字数：3k字</p>
+      <p>字数：1.5k字</p>
     </a>
   </div>
   <div class="new-meta-item readtime">
     <a class='notlink'>
       <i class="fas fa-hourglass-half fa-fw" aria-hidden="true"></i>
-      <p>时长：14分钟</p>
+      <p>时长：5分钟</p>
     </a>
   </div>
 
@@ -396,113 +394,13 @@
   <section class="article typo">
     <div class="article-entry" itemprop="articleBody">
       
-        <p>之前研究art的时候发现了native bridge，简单来说这东西是主要作用就是为了能运行不同指令集的so（比如x86的设备运行arm的app），而arm设备上这个东西一般都是关闭的，研究了一下后发现这东西挺适合动手脚的，刚好自己在用的<a href="https://github.com/RikkaApps/Riru" target="_blank" rel="noopener">Riru</a>被针对了，所以有了这篇博客。把对应的示例代码传到了github：<a href="https://github.com/canyie/NbInjection" target="_blank" rel="noopener">NbInjection</a>，接下来我们聊一下这个小玩具。</p>
+        <p>2009年6月1日（UTC时间），法国航空447号班机（机型空中客车A330-203、注册号F-GZCP）在大西洋中部雷达盲区神秘失踪，后被证实坠毁，机上228人（乘客216人、机组成员12人）全数罹难。著名空难文献剧《Air Crash Investigation》（中文一般译为《空中浩劫》，以下简称ACI）在S12E13中收录了此事故，揭露了所谓的“空难真相”，将矛头直指副驾驶皮埃尔-塞德里克·博南（Pierre Cédric Bonin）；同时，由于该片的知名度，让许多航空爱好者乃至真正的航空从业者认为该片所述即为事实。然而，真的是这样吗？</p>
       
     </div>
     
       
         <div class="button readmore">
-          <a href="/2020/08/18/nbinjection/">
-            阅读全文 <i class="fas fa-chevron-right"></i>
-          </a>
-        </div>
-      
-    
-  </section>
-</article>
-
-          </div>
-        
-      
-        
-          <div class='post-wrapper'>
-            <article class="post white-box shadow blur reveal ">
-  
-
-
-  <section class='meta'>
-    
-      
-      
-      <div class="meta" id="header-meta">
-        
-          
-  <h2 class="title">
-    <a href="/2020/02/03/a-new-xposed-style-framework/">
-      试着写了一个类Xposed框架
-    </a>
-  </h2>
-
-
-        
-        <div class='new-meta-box'>
-          
-            
-          
-            
-              
-<div class='new-meta-item author'>
-  <a href="https://blog.canyie.top/" rel="nofollow">
-    <img src="/data/image/avatar.jpg">
-    <p>残页</p>
-  </a>
-</div>
-
-            
-          
-            
-              <div class="new-meta-item date">
-  <a class='notlink'>
-    <i class="fas fa-calendar-alt fa-fw" aria-hidden="true"></i>
-    <p>发布于2020年2月3日</p>
-  </a>
-</div>
-
-            
-          
-            
-              
-  <div class="new-meta-item wordcount">
-    <a class='notlink'>
-      <i class="fas fa-keyboard fa-fw" aria-hidden="true"></i>
-      <p>字数：4.4k字</p>
-    </a>
-  </div>
-  <div class="new-meta-item readtime">
-    <a class='notlink'>
-      <i class="fas fa-hourglass-half fa-fw" aria-hidden="true"></i>
-      <p>时长：18分钟</p>
-    </a>
-  </div>
-
-
-            
-          
-            
-              
-
-            
-          
-        </div>
-        
-          <hr>
-        
-      </div>
-    
-  </section>
-
-
-  <section class="article typo">
-    <div class="article-entry" itemprop="articleBody">
-      
-        <p>新人第一次写博客，勿喷..<br>本文也发布在<a href="https://zhuanlan.zhihu.com/p/104871958" target="_blank" rel="noopener">知乎</a>上</p>
-<p>Xposed框架在Android上是神器般的存在，它给了普通用户随意定制系统的能力，各种骚操作层出不穷。随着咱对Android的了解越来越深（其实一点都不深..），逐渐冒出了自己写一个类Xposed框架的想法，最终搞出了这个勉强能用的半成品。<br>代码在这：<a href="https://github.com/canyie/Dreamland" target="_blank" rel="noopener">Dreamland</a> &amp; <a href="https://github.com/canyie/DreamlandManager" target="_blank" rel="noopener">Dreamland Manager</a> ，代码写的很辣鸡，求轻喷QAQ<br>接下来会介绍一下实现细节与遇到的问题。</p>
-      
-    </div>
-    
-      
-        <div class="button readmore">
-          <a href="/2020/02/03/a-new-xposed-style-framework/">
+          <a href="/2020/08/20/af447-in-aci/">
             阅读全文 <i class="fas fa-chevron-right"></i>
           </a>
         </div>
