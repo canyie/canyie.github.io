@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.canyie.top/friends/index.html</loc>
+    
+    <lastmod>2020-10-01T05:45:53.251Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.canyie.top/2020/08/20/af447-in-aci/</loc>
     
     <lastmod>2020-08-20T08:29:39.947Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>https://blog.canyie.top/2020/08/18/nbinjection/</loc>
     
     <lastmod>2020-08-19T07:15:22.473Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.canyie.top/friends/index.html</loc>
-    
-    <lastmod>2020-08-18T12:16:16.116Z</lastmod>
     
   </url>
   
