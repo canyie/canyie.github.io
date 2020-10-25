@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.canyie.top/2020/08/18/nbinjection/</loc>
+    <lastmod>2020-10-25</lastmod>
+  </url>  <url>
+    <loc>https://blog.canyie.top/2020/04/27/dynamic-hooking-framework-on-art/</loc>
+    <lastmod>2020-10-25</lastmod>
+  </url>  <url>
     <loc>https://blog.canyie.top/2020/08/20/af447-in-aci/</loc>
     <lastmod>2020-08-20</lastmod>
   </url>  <url>
-    <loc>https://blog.canyie.top/2020/08/18/nbinjection/</loc>
-    <lastmod>2020-08-19</lastmod>
-  </url>  <url>
     <loc>https://blog.canyie.top/2020/06/10/hiddenapi-restriction-policy-on-android-r/</loc>
     <lastmod>2020-06-10</lastmod>
-  </url>  <url>
-    <loc>https://blog.canyie.top/2020/04/27/dynamic-hooking-framework-on-art/</loc>
-    <lastmod>2020-04-27</lastmod>
   </url>  <url>
     <loc>https://blog.canyie.top/2020/02/15/fast-load-dex-on-art-runtime/</loc>
     <lastmod>2020-04-15</lastmod>
