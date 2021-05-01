@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.canyie.top/2021/05/01/anti-magisk-xposed/</loc>
+    
+    <lastmod>2021-05-01T10:13:00.212Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.canyie.top/2020/06/10/hiddenapi-restriction-policy-on-android-r/</loc>
     
     <lastmod>2021-04-10T05:39:39.074Z</lastmod>
