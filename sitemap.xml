@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.canyie.top/friends/index.html</loc>
+    
+    <lastmod>2023-12-16T14:11:27.514Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/about/index.html</loc>
+    
+    <lastmod>2023-12-16T14:01:38.954Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.canyie.top/2023/11/12/android-booting-shenanigans-and-magiskinit-analysing/</loc>
     
     <lastmod>2023-11-12T07:21:20.407Z</lastmod>
@@ -12,20 +26,6 @@
     <loc>https://blog.canyie.top/2023/11/06/first-19-years-of-my-life/</loc>
     
     <lastmod>2023-11-06T13:39:59.957Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.canyie.top/friends/index.html</loc>
-    
-    <lastmod>2023-08-07T13:28:35.159Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.canyie.top/about/index.html</loc>
-    
-    <lastmod>2023-08-06T10:47:00.611Z</lastmod>
     
   </url>
   
