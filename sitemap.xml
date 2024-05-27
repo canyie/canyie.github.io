@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.canyie.top/friends/index.html</loc>
+    
+    <lastmod>2024-05-27T12:49:59.235Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.canyie.top/2024/04/18/android-security-bulletin-index/</loc>
     
     <lastmod>2024-05-10T03:38:44.419Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>https://blog.canyie.top/2023/11/12/android-booting-shenanigans-and-magiskinit-analysing/</loc>
     
     <lastmod>2024-02-25T16:05:43.985Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.canyie.top/friends/index.html</loc>
-    
-    <lastmod>2023-12-16T14:11:27.514Z</lastmod>
     
   </url>
   
