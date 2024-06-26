@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.canyie.top/friends/index.html</loc>
+    
+    <lastmod>2024-06-26T11:19:52.616Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.canyie.top/about/index.html</loc>
     
     <lastmod>2024-06-23T03:46:24.592Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>https://blog.canyie.top/2024/04/18/android-security-bulletin-index/</loc>
     
     <lastmod>2024-06-23T03:39:40.469Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.canyie.top/friends/index.html</loc>
-    
-    <lastmod>2024-05-27T12:49:59.235Z</lastmod>
     
   </url>
   
