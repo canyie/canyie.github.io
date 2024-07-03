@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.canyie.top/2023/11/06/first-19-years-of-my-life/</loc>
+    <lastmod>2024-07-03</lastmod>
+  </url>  <url>
     <loc>https://blog.canyie.top/2024/04/18/android-security-bulletin-index/</loc>
-    <lastmod>2024-06-23</lastmod>
+    <lastmod>2024-07-03</lastmod>
   </url>  <url>
     <loc>https://blog.canyie.top/2023/11/12/android-booting-shenanigans-and-magiskinit-analysing/</loc>
     <lastmod>2024-02-25</lastmod>
-  </url>  <url>
-    <loc>https://blog.canyie.top/2023/11/06/first-19-years-of-my-life/</loc>
-    <lastmod>2023-11-06</lastmod>
   </url>  <url>
     <loc>https://blog.canyie.top/2023/03/28/system-foundation-for-android-devs/</loc>
     <lastmod>2023-03-29</lastmod>
