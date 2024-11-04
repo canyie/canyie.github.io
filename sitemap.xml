@@ -2,23 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.canyie.top/2024/04/18/android-security-bulletin-index/</loc>
+    <loc>https://blog.canyie.top/2024/11/05/android-platform-common-vulnerabilities/</loc>
     
-    <lastmod>2024-10-15T10:26:14.112Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.canyie.top/about/index.html</loc>
-    
-    <lastmod>2024-10-10T02:28:45.218Z</lastmod>
+    <lastmod>2024-11-04T12:43:37.882Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.canyie.top/friends/index.html</loc>
     
-    <lastmod>2024-10-10T02:16:12.045Z</lastmod>
+    <lastmod>2024-11-04T12:42:21.874Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/about/index.html</loc>
+    
+    <lastmod>2024-10-29T12:51:45.282Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/2024/04/18/android-security-bulletin-index/</loc>
+    
+    <lastmod>2024-10-15T10:26:14.112Z</lastmod>
     
   </url>
   
