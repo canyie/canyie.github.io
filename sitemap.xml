@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.canyie.top/friends/index.html</loc>
+    
+    <lastmod>2024-11-11T14:03:34.115Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/2024/04/18/android-security-bulletin-index/</loc>
+    
+    <lastmod>2024-11-11T13:32:39.550Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/about/index.html</loc>
+    
+    <lastmod>2024-11-11T12:38:48.425Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.canyie.top/2024/11/07/self-changing-data-type/</loc>
     
     <lastmod>2024-11-07T03:34:02.345Z</lastmod>
@@ -9,30 +30,9 @@
   </url>
   
   <url>
-    <loc>https://blog.canyie.top/2024/04/18/android-security-bulletin-index/</loc>
-    
-    <lastmod>2024-11-07T03:28:14.790Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.canyie.top/2024/11/05/android-platform-common-vulnerabilities/</loc>
     
     <lastmod>2024-11-04T12:43:37.882Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.canyie.top/friends/index.html</loc>
-    
-    <lastmod>2024-11-04T12:42:21.874Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.canyie.top/about/index.html</loc>
-    
-    <lastmod>2024-10-29T12:51:45.282Z</lastmod>
     
   </url>
   
