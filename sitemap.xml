@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.canyie.top/2024/04/18/android-security-bulletin-index/</loc>
+    
+    <lastmod>2024-12-08T11:00:46.261Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/friends/index.html</loc>
+    
+    <lastmod>2024-12-05T03:06:23.534Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/about/index.html</loc>
+    
+    <lastmod>2024-12-05T02:57:54.025Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.canyie.top/2024/10/08/CVE-2024-0044/</loc>
     
     <lastmod>2024-11-12T10:00:51.212Z</lastmod>
@@ -12,27 +33,6 @@
     <loc>https://blog.canyie.top/2024/08/24/CVE-2024-48336/</loc>
     
     <lastmod>2024-11-12T09:57:26.278Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.canyie.top/2024/04/18/android-security-bulletin-index/</loc>
-    
-    <lastmod>2024-11-12T09:10:44.754Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.canyie.top/friends/index.html</loc>
-    
-    <lastmod>2024-11-11T14:03:34.115Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.canyie.top/about/index.html</loc>
-    
-    <lastmod>2024-11-11T12:38:48.425Z</lastmod>
     
   </url>
   

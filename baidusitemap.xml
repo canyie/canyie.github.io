@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.canyie.top/2024/04/18/android-security-bulletin-index/</loc>
+    <lastmod>2024-12-08</lastmod>
+  </url>  <url>
     <loc>https://blog.canyie.top/2024/10/08/CVE-2024-0044/</loc>
     <lastmod>2024-11-12</lastmod>
   </url>  <url>
     <loc>https://blog.canyie.top/2024/08/24/CVE-2024-48336/</loc>
-    <lastmod>2024-11-12</lastmod>
-  </url>  <url>
-    <loc>https://blog.canyie.top/2024/04/18/android-security-bulletin-index/</loc>
     <lastmod>2024-11-12</lastmod>
   </url>  <url>
     <loc>https://blog.canyie.top/2024/11/07/self-changing-data-type/</loc>
