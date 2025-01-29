@@ -2,16 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.canyie.top/2024/04/18/android-security-bulletin-index/</loc>
+    <loc>https://blog.canyie.top/2025/01/29/android-security-bulletin-index-2025/</loc>
     
-    <lastmod>2024-12-08T11:00:46.261Z</lastmod>
+    <lastmod>2025-01-29T09:00:38.813Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.canyie.top/friends/index.html</loc>
     
-    <lastmod>2024-12-05T03:06:23.534Z</lastmod>
+    <lastmod>2025-01-29T08:56:23.682Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/2024/11/05/android-platform-common-vulnerabilities/</loc>
+    
+    <lastmod>2025-01-29T08:51:41.097Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/2024/04/18/android-security-bulletin-index/</loc>
+    
+    <lastmod>2025-01-29T08:50:02.963Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/2024/11/07/self-changing-data-type/</loc>
+    
+    <lastmod>2025-01-10T08:29:11.019Z</lastmod>
     
   </url>
   
@@ -33,20 +54,6 @@
     <loc>https://blog.canyie.top/2024/08/24/CVE-2024-48336/</loc>
     
     <lastmod>2024-11-12T09:57:26.278Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.canyie.top/2024/11/07/self-changing-data-type/</loc>
-    
-    <lastmod>2024-11-07T03:34:02.345Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.canyie.top/2024/11/05/android-platform-common-vulnerabilities/</loc>
-    
-    <lastmod>2024-11-04T12:43:37.882Z</lastmod>
     
   </url>
   
