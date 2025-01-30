@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.canyie.top/2025/01/29/android-security-bulletin-index-2025/</loc>
+    <loc>https://blog.canyie.top/about/index.html</loc>
     
-    <lastmod>2025-01-29T09:00:38.813Z</lastmod>
+    <lastmod>2025-01-30T02:26:27.535Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.canyie.top/friends/index.html</loc>
     
-    <lastmod>2025-01-29T08:56:23.682Z</lastmod>
+    <lastmod>2025-01-30T02:23:27.932Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/2025/01/29/android-security-bulletin-index-2025/</loc>
+    
+    <lastmod>2025-01-29T09:00:38.813Z</lastmod>
     
   </url>
   
@@ -33,13 +40,6 @@
     <loc>https://blog.canyie.top/2024/11/07/self-changing-data-type/</loc>
     
     <lastmod>2025-01-10T08:29:11.019Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.canyie.top/about/index.html</loc>
-    
-    <lastmod>2024-12-05T02:57:54.025Z</lastmod>
     
   </url>
   
