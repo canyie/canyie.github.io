@@ -10,13 +10,13 @@
     <loc>https://blog.canyie.top/2023/03/28/system-foundation-for-android-devs/</loc>
     <lastmod>2025-04-24</lastmod>
   </url>  <url>
-    <loc>https://blog.canyie.top/2020/08/18/nbinjection/</loc>
-    <lastmod>2025-04-24</lastmod>
-  </url>  <url>
     <loc>https://blog.canyie.top/2020/06/10/hiddenapi-restriction-policy-on-android-r/</loc>
     <lastmod>2025-04-24</lastmod>
   </url>  <url>
     <loc>https://blog.canyie.top/2022/04/09/property-implementation-and-isolation/</loc>
+    <lastmod>2025-04-24</lastmod>
+  </url>  <url>
+    <loc>https://blog.canyie.top/2020/08/18/nbinjection/</loc>
     <lastmod>2025-04-24</lastmod>
   </url>  <url>
     <loc>https://blog.canyie.top/2020/04/27/dynamic-hooking-framework-on-art/</loc>
@@ -25,25 +25,25 @@
     <loc>https://blog.canyie.top/2022/01/09/end-of-2021/</loc>
     <lastmod>2025-04-24</lastmod>
   </url>  <url>
+    <loc>https://blog.canyie.top/2019/10/28/hello-world/</loc>
+    <lastmod>2025-04-24</lastmod>
+  </url>  <url>
     <loc>https://blog.canyie.top/2023/11/06/first-19-years-of-my-life/</loc>
     <lastmod>2025-04-24</lastmod>
   </url>  <url>
     <loc>https://blog.canyie.top/2020/02/15/fast-load-dex-on-art-runtime/</loc>
     <lastmod>2025-04-24</lastmod>
   </url>  <url>
-    <loc>https://blog.canyie.top/2019/10/28/hello-world/</loc>
-    <lastmod>2025-04-24</lastmod>
-  </url>  <url>
     <loc>https://blog.canyie.top/2020/08/20/af447-in-aci/</loc>
     <lastmod>2025-04-24</lastmod>
   </url>  <url>
-    <loc>https://blog.canyie.top/2024/11/05/android-platform-common-vulnerabilities/</loc>
+    <loc>https://blog.canyie.top/2023/11/12/android-booting-shenanigans-and-magiskinit-analysing/</loc>
     <lastmod>2025-04-24</lastmod>
   </url>  <url>
     <loc>https://blog.canyie.top/2024/04/18/android-security-bulletin-index/</loc>
     <lastmod>2025-04-24</lastmod>
   </url>  <url>
-    <loc>https://blog.canyie.top/2023/11/12/android-booting-shenanigans-and-magiskinit-analysing/</loc>
+    <loc>https://blog.canyie.top/2024/11/05/android-platform-common-vulnerabilities/</loc>
     <lastmod>2025-04-24</lastmod>
   </url>  <url>
     <loc>https://blog.canyie.top/2021/05/01/anti-magisk-xposed/</loc>
@@ -52,10 +52,10 @@
     <loc>https://blog.canyie.top/2025/02/04/CVE-2024-49721/</loc>
     <lastmod>2025-04-24</lastmod>
   </url>  <url>
-    <loc>https://blog.canyie.top/2024/10/08/CVE-2024-0044/</loc>
+    <loc>https://blog.canyie.top/2024/08/24/CVE-2024-48336/</loc>
     <lastmod>2025-04-24</lastmod>
   </url>  <url>
-    <loc>https://blog.canyie.top/2024/08/24/CVE-2024-48336/</loc>
+    <loc>https://blog.canyie.top/2024/10/08/CVE-2024-0044/</loc>
     <lastmod>2025-04-24</lastmod>
   </url>  <url>
     <loc>https://blog.canyie.top/2020/02/03/a-new-xposed-style-framework/</loc>

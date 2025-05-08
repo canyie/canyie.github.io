@@ -164,11 +164,11 @@
     
       <category term="android" scheme="https://blog.canyie.top/tags/android/"/>
     
+      <category term="magisk" scheme="https://blog.canyie.top/tags/magisk/"/>
+    
       <category term="system" scheme="https://blog.canyie.top/tags/system/"/>
     
       <category term="安全" scheme="https://blog.canyie.top/tags/%E5%AE%89%E5%85%A8/"/>
-    
-      <category term="magisk" scheme="https://blog.canyie.top/tags/magisk/"/>
     
   </entry>
   
@@ -218,9 +218,9 @@
     
       <category term="android" scheme="https://blog.canyie.top/tags/android/"/>
     
-      <category term="system" scheme="https://blog.canyie.top/tags/system/"/>
-    
       <category term="magisk" scheme="https://blog.canyie.top/tags/magisk/"/>
+    
+      <category term="system" scheme="https://blog.canyie.top/tags/system/"/>
     
       <category term="kernel" scheme="https://blog.canyie.top/tags/kernel/"/>
     

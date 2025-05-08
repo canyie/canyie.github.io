@@ -135,11 +135,11 @@
             
             <tag> android </tag>
             
+            <tag> magisk </tag>
+            
             <tag> system </tag>
             
             <tag> 安全 </tag>
-            
-            <tag> magisk </tag>
             
         </tags>
       
@@ -185,9 +185,9 @@
             
             <tag> android </tag>
             
-            <tag> system </tag>
-            
             <tag> magisk </tag>
+            
+            <tag> system </tag>
             
             <tag> kernel </tag>
             
