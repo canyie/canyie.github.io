@@ -1,1 +1,1 @@
-self.addEventListener("install",e=>{console.log("sw.js: installed service worker")}),self.addEventListener("activate",e=>{e.waitUntil(caches.keys().then(e=>Promise.all(e.map(e=>(console.log("sw.js: removing cache "+e),caches.delete(e))))))});
+self.addEventListener("install",e=>{console.log("sw.js: installed service worker"),self.skipWaiting()}),self.addEventListener("activate",e=>{e.waitUntil(caches.keys().then(e=>Promise.all(e.map(e=>(console.log("sw.js: removing cache "+e),caches.delete(e))))))});
