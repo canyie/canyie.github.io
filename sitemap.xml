@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://blog.canyie.top/2025/01/29/android-security-bulletin-index-2025/</loc>
+    
+    <lastmod>2025-05-08T09:21:02.603Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/about/index.html</loc>
+    
+    <lastmod>2025-05-08T07:28:24.827Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/tags/index.html</loc>
+    
+    <lastmod>2025-04-24T10:33:03.133Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/friends/index.html</loc>
+    
+    <lastmod>2025-04-24T10:33:03.133Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/categories/index.html</loc>
+    
+    <lastmod>2025-04-24T10:33:02.827Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/2024/11/07/self-changing-data-type/</loc>
+    
+    <lastmod>2025-04-24T10:33:02.825Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/2023/03/28/system-foundation-for-android-devs/</loc>
+    
+    <lastmod>2025-04-24T10:33:02.825Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/2020/08/18/nbinjection/</loc>
+    
+    <lastmod>2025-04-24T10:33:02.823Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/2020/06/10/hiddenapi-restriction-policy-on-android-r/</loc>
+    
+    <lastmod>2025-04-24T10:33:02.823Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/2022/04/09/property-implementation-and-isolation/</loc>
+    
+    <lastmod>2025-04-24T10:33:02.823Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/2020/04/27/dynamic-hooking-framework-on-art/</loc>
+    
+    <lastmod>2025-04-24T10:33:02.819Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/2022/01/09/end-of-2021/</loc>
+    
+    <lastmod>2025-04-24T10:33:02.819Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/2023/11/06/first-19-years-of-my-life/</loc>
+    
+    <lastmod>2025-04-24T10:33:02.819Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/2020/02/15/fast-load-dex-on-art-runtime/</loc>
+    
+    <lastmod>2025-04-24T10:33:02.819Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/2019/10/28/hello-world/</loc>
+    
+    <lastmod>2025-04-24T10:33:02.819Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/2020/08/20/af447-in-aci/</loc>
+    
+    <lastmod>2025-04-24T10:33:02.812Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/2024/11/05/android-platform-common-vulnerabilities/</loc>
+    
+    <lastmod>2025-04-24T10:33:02.812Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/2024/04/18/android-security-bulletin-index/</loc>
+    
+    <lastmod>2025-04-24T10:33:02.812Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/2023/11/12/android-booting-shenanigans-and-magiskinit-analysing/</loc>
+    
+    <lastmod>2025-04-24T10:33:02.812Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/2021/05/01/anti-magisk-xposed/</loc>
+    
+    <lastmod>2025-04-24T10:33:02.812Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/2025/02/04/CVE-2024-49721/</loc>
+    
+    <lastmod>2025-04-24T10:33:02.810Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/2024/10/08/CVE-2024-0044/</loc>
+    
+    <lastmod>2025-04-24T10:33:02.808Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/2024/08/24/CVE-2024-48336/</loc>
+    
+    <lastmod>2025-04-24T10:33:02.808Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/404.html</loc>
+    
+    <lastmod>2025-04-24T10:33:02.803Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/2020/02/03/a-new-xposed-style-framework/</loc>
+    
+    <lastmod>2020-02-05T06:10:23.000Z</lastmod>
+    
+  </url>
+  
+</urlset>

@@ -1,0 +1,1 @@
+var domain="http://qzonestyle.gtimg.cn/qzone_v6/lostchild/";document.write('<script type="text/javascript" src="'+domain+'data.js"><\/script>'),document.write('<script type="text/javascript" src="'+domain+'page.js"><\/script>');
