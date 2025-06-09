@@ -2,7 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://blog.canyie.top/2025/01/29/android-security-bulletin-index-2025/</loc>
-    <lastmod>2025-05-08</lastmod>
+    <lastmod>2025-06-09</lastmod>
+  </url>  <url>
+    <loc>https://blog.canyie.top/2024/11/05/android-platform-common-vulnerabilities/</loc>
+    <lastmod>2025-05-15</lastmod>
   </url>  <url>
     <loc>https://blog.canyie.top/2024/11/07/self-changing-data-type/</loc>
     <lastmod>2025-04-24</lastmod>
@@ -41,9 +44,6 @@
     <lastmod>2025-04-24</lastmod>
   </url>  <url>
     <loc>https://blog.canyie.top/2024/04/18/android-security-bulletin-index/</loc>
-    <lastmod>2025-04-24</lastmod>
-  </url>  <url>
-    <loc>https://blog.canyie.top/2024/11/05/android-platform-common-vulnerabilities/</loc>
     <lastmod>2025-04-24</lastmod>
   </url>  <url>
     <loc>https://blog.canyie.top/2021/05/01/anti-magisk-xposed/</loc>
