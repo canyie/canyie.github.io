@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://blog.canyie.top/2025/08/24/android-runtime-resources-overlay-sequence/</loc>
-    <lastmod>2025-08-24</lastmod>
-  </url>  <url>
     <loc>https://blog.canyie.top/2025/01/29/android-security-bulletin-index-2025/</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2025-09-27</lastmod>
+  </url>  <url>
+    <loc>https://blog.canyie.top/2025/02/04/CVE-2024-49721/</loc>
+    <lastmod>2025-09-13</lastmod>
+  </url>  <url>
+    <loc>https://blog.canyie.top/2025/08/24/android-runtime-resources-overlay-sequence/</loc>
+    <lastmod>2025-08-25</lastmod>
   </url>  <url>
     <loc>https://blog.canyie.top/2024/04/18/android-security-bulletin-index/</loc>
     <lastmod>2025-08-17</lastmod>
@@ -50,9 +53,6 @@
     <lastmod>2025-04-24</lastmod>
   </url>  <url>
     <loc>https://blog.canyie.top/2021/05/01/anti-magisk-xposed/</loc>
-    <lastmod>2025-04-24</lastmod>
-  </url>  <url>
-    <loc>https://blog.canyie.top/2025/02/04/CVE-2024-49721/</loc>
     <lastmod>2025-04-24</lastmod>
   </url>  <url>
     <loc>https://blog.canyie.top/2024/08/24/CVE-2024-48336/</loc>

@@ -2,23 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.canyie.top/2025/08/24/android-runtime-resources-overlay-sequence/</loc>
+    <loc>https://blog.canyie.top/2025/01/29/android-security-bulletin-index-2025/</loc>
     
-    <lastmod>2025-08-24T14:31:47.178Z</lastmod>
+    <lastmod>2025-09-27T16:36:40.744Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/2025/02/04/CVE-2024-49721/</loc>
+    
+    <lastmod>2025-09-13T11:38:25.320Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.canyie.top/about/index.html</loc>
     
-    <lastmod>2025-08-24T09:25:47.838Z</lastmod>
+    <lastmod>2025-09-09T15:27:12.843Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.canyie.top/2025/01/29/android-security-bulletin-index-2025/</loc>
+    <loc>https://blog.canyie.top/2025/08/24/android-runtime-resources-overlay-sequence/</loc>
     
-    <lastmod>2025-08-17T14:51:10.472Z</lastmod>
+    <lastmod>2025-08-25T04:04:07.314Z</lastmod>
     
   </url>
   
@@ -145,13 +152,6 @@
     <loc>https://blog.canyie.top/2021/05/01/anti-magisk-xposed/</loc>
     
     <lastmod>2025-04-24T10:33:02.812Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.canyie.top/2025/02/04/CVE-2024-49721/</loc>
-    
-    <lastmod>2025-04-24T10:33:02.810Z</lastmod>
     
   </url>
   
