@@ -2,16 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.canyie.top/2026/03/18/android-security-bulletin-index-2026/</loc>
+    
+    <lastmod>2026-03-18T15:15:00.966Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.canyie.top/2025/01/29/android-security-bulletin-index-2025/</loc>
     
-    <lastmod>2025-12-18T15:00:26.214Z</lastmod>
+    <lastmod>2026-03-18T15:13:31.221Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/2024/04/18/android-security-bulletin-index/</loc>
+    
+    <lastmod>2026-03-18T15:13:05.420Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/2026/03/18/telegram-channel-backup/</loc>
+    
+    <lastmod>2026-03-18T15:09:54.549Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.canyie.top/about/index.html</loc>
     
-    <lastmod>2025-12-18T14:54:58.155Z</lastmod>
+    <lastmod>2026-03-12T18:26:12.842Z</lastmod>
     
   </url>
   
@@ -30,13 +51,6 @@
   </url>
   
   <url>
-    <loc>https://blog.canyie.top/2024/04/18/android-security-bulletin-index/</loc>
-    
-    <lastmod>2025-08-17T04:47:31.201Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.canyie.top/2024/11/05/android-platform-common-vulnerabilities/</loc>
     
     <lastmod>2025-05-15T11:13:01.210Z</lastmod>
@@ -44,14 +58,14 @@
   </url>
   
   <url>
-    <loc>https://blog.canyie.top/friends/index.html</loc>
+    <loc>https://blog.canyie.top/tags/index.html</loc>
     
     <lastmod>2025-04-24T10:33:03.133Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.canyie.top/tags/index.html</loc>
+    <loc>https://blog.canyie.top/friends/index.html</loc>
     
     <lastmod>2025-04-24T10:33:03.133Z</lastmod>
     
@@ -65,14 +79,14 @@
   </url>
   
   <url>
-    <loc>https://blog.canyie.top/2024/11/07/self-changing-data-type/</loc>
+    <loc>https://blog.canyie.top/2023/03/28/system-foundation-for-android-devs/</loc>
     
     <lastmod>2025-04-24T10:33:02.825Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.canyie.top/2023/03/28/system-foundation-for-android-devs/</loc>
+    <loc>https://blog.canyie.top/2024/11/07/self-changing-data-type/</loc>
     
     <lastmod>2025-04-24T10:33:02.825Z</lastmod>
     
@@ -86,13 +100,6 @@
   </url>
   
   <url>
-    <loc>https://blog.canyie.top/2022/04/09/property-implementation-and-isolation/</loc>
-    
-    <lastmod>2025-04-24T10:33:02.823Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.canyie.top/2020/08/18/nbinjection/</loc>
     
     <lastmod>2025-04-24T10:33:02.823Z</lastmod>
@@ -100,21 +107,14 @@
   </url>
   
   <url>
-    <loc>https://blog.canyie.top/2020/04/27/dynamic-hooking-framework-on-art/</loc>
+    <loc>https://blog.canyie.top/2022/04/09/property-implementation-and-isolation/</loc>
     
-    <lastmod>2025-04-24T10:33:02.819Z</lastmod>
+    <lastmod>2025-04-24T10:33:02.823Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.canyie.top/2022/01/09/end-of-2021/</loc>
-    
-    <lastmod>2025-04-24T10:33:02.819Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.canyie.top/2019/10/28/hello-world/</loc>
     
     <lastmod>2025-04-24T10:33:02.819Z</lastmod>
     
@@ -135,14 +135,28 @@
   </url>
   
   <url>
-    <loc>https://blog.canyie.top/2020/08/20/af447-in-aci/</loc>
+    <loc>https://blog.canyie.top/2020/04/27/dynamic-hooking-framework-on-art/</loc>
+    
+    <lastmod>2025-04-24T10:33:02.819Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/2019/10/28/hello-world/</loc>
+    
+    <lastmod>2025-04-24T10:33:02.819Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/2023/11/12/android-booting-shenanigans-and-magiskinit-analysing/</loc>
     
     <lastmod>2025-04-24T10:33:02.812Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.canyie.top/2023/11/12/android-booting-shenanigans-and-magiskinit-analysing/</loc>
+    <loc>https://blog.canyie.top/2020/08/20/af447-in-aci/</loc>
     
     <lastmod>2025-04-24T10:33:02.812Z</lastmod>
     
@@ -156,14 +170,14 @@
   </url>
   
   <url>
-    <loc>https://blog.canyie.top/2024/08/24/CVE-2024-48336/</loc>
+    <loc>https://blog.canyie.top/2024/10/08/CVE-2024-0044/</loc>
     
     <lastmod>2025-04-24T10:33:02.808Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.canyie.top/2024/10/08/CVE-2024-0044/</loc>
+    <loc>https://blog.canyie.top/2024/08/24/CVE-2024-48336/</loc>
     
     <lastmod>2025-04-24T10:33:02.808Z</lastmod>
     
