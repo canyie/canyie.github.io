@@ -2,30 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.canyie.top/2026/07/08/CVE-2026-0091/</loc>
+    <loc>https://blog.canyie.top/2026/09/09/LSPromise/</loc>
     
-    <lastmod>2026-07-08T09:51:33.030Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.canyie.top/about/index.html</loc>
-    
-    <lastmod>2026-07-08T09:46:50.804Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.canyie.top/2026/03/18/android-security-bulletin-index-2026/</loc>
-    
-    <lastmod>2026-07-08T09:39:54.291Z</lastmod>
+    <lastmod>2026-09-09T02:11:47.011Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.canyie.top/2026/06/09/android-security-tricks/</loc>
     
-    <lastmod>2026-06-10T01:03:45.656Z</lastmod>
+    <lastmod>2026-08-31T06:28:53.814Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/2025/01/29/android-security-bulletin-index-2025/</loc>
+    
+    <lastmod>2026-08-07T04:35:00.255Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/2026/03/18/android-security-bulletin-index-2026/</loc>
+    
+    <lastmod>2026-08-07T04:34:49.297Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/about/index.html</loc>
+    
+    <lastmod>2026-07-30T11:50:00.691Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/2024/11/05/android-platform-common-vulnerabilities/</loc>
+    
+    <lastmod>2026-07-30T11:49:03.008Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/2026/07/08/CVE-2026-0091/</loc>
+    
+    <lastmod>2026-07-08T09:51:33.030Z</lastmod>
     
   </url>
   
@@ -40,13 +61,6 @@
     <loc>https://blog.canyie.top/2024/04/18/android-security-bulletin-index/</loc>
     
     <lastmod>2026-05-07T01:49:28.844Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.canyie.top/2025/01/29/android-security-bulletin-index-2025/</loc>
-    
-    <lastmod>2026-05-07T01:48:58.750Z</lastmod>
     
   </url>
   
@@ -68,13 +82,6 @@
     <loc>https://blog.canyie.top/2025/08/24/android-runtime-resources-overlay-sequence/</loc>
     
     <lastmod>2025-08-25T04:04:07.314Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.canyie.top/2024/11/05/android-platform-common-vulnerabilities/</loc>
-    
-    <lastmod>2025-05-15T11:13:01.210Z</lastmod>
     
   </url>
   

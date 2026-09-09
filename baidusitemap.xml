@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://blog.canyie.top/2026/07/08/CVE-2026-0091/</loc>
-    <lastmod>2026-07-08</lastmod>
-  </url>  <url>
-    <loc>https://blog.canyie.top/2026/03/18/android-security-bulletin-index-2026/</loc>
-    <lastmod>2026-07-08</lastmod>
+    <loc>https://blog.canyie.top/2026/09/09/LSPromise/</loc>
+    <lastmod>2026-09-09</lastmod>
   </url>  <url>
     <loc>https://blog.canyie.top/2026/06/09/android-security-tricks/</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-08-31</lastmod>
+  </url>  <url>
+    <loc>https://blog.canyie.top/2025/01/29/android-security-bulletin-index-2025/</loc>
+    <lastmod>2026-08-07</lastmod>
+  </url>  <url>
+    <loc>https://blog.canyie.top/2026/03/18/android-security-bulletin-index-2026/</loc>
+    <lastmod>2026-08-07</lastmod>
+  </url>  <url>
+    <loc>https://blog.canyie.top/2024/11/05/android-platform-common-vulnerabilities/</loc>
+    <lastmod>2026-07-30</lastmod>
+  </url>  <url>
+    <loc>https://blog.canyie.top/2026/07/08/CVE-2026-0091/</loc>
+    <lastmod>2026-07-08</lastmod>
   </url>  <url>
     <loc>https://blog.canyie.top/2026/03/17/telegram-channel-backup/</loc>
     <lastmod>2026-05-28</lastmod>
@@ -16,17 +25,11 @@
     <loc>https://blog.canyie.top/2024/04/18/android-security-bulletin-index/</loc>
     <lastmod>2026-05-07</lastmod>
   </url>  <url>
-    <loc>https://blog.canyie.top/2025/01/29/android-security-bulletin-index-2025/</loc>
-    <lastmod>2026-05-07</lastmod>
-  </url>  <url>
     <loc>https://blog.canyie.top/2025/02/04/CVE-2024-49721/</loc>
     <lastmod>2025-09-13</lastmod>
   </url>  <url>
     <loc>https://blog.canyie.top/2025/08/24/android-runtime-resources-overlay-sequence/</loc>
     <lastmod>2025-08-25</lastmod>
-  </url>  <url>
-    <loc>https://blog.canyie.top/2024/11/05/android-platform-common-vulnerabilities/</loc>
-    <lastmod>2025-05-15</lastmod>
   </url>  <url>
     <loc>https://blog.canyie.top/2023/03/28/system-foundation-for-android-devs/</loc>
     <lastmod>2025-04-24</lastmod>
