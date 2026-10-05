@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.canyie.top/friends/index.html</loc>
+    <loc>https://blog.canyie.top/2024/04/18/android-security-bulletin-index/</loc>
     
-    <lastmod>2026-10-05T09:25:11.286Z</lastmod>
+    <lastmod>2026-10-05T09:36:11.396Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.canyie.top/2026/03/18/android-security-bulletin-index-2026/</loc>
     
-    <lastmod>2026-10-05T09:24:51.998Z</lastmod>
+    <lastmod>2026-10-05T09:34:52.965Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/friends/index.html</loc>
+    
+    <lastmod>2026-10-05T09:25:11.286Z</lastmod>
     
   </url>
   
@@ -61,13 +68,6 @@
     <loc>https://blog.canyie.top/2026/03/17/telegram-channel-backup/</loc>
     
     <lastmod>2026-05-28T11:05:54.023Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.canyie.top/2024/04/18/android-security-bulletin-index/</loc>
-    
-    <lastmod>2026-05-07T01:49:28.844Z</lastmod>
     
   </url>
   
