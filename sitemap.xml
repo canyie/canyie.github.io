@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.canyie.top/friends/index.html</loc>
+    
+    <lastmod>2026-10-05T09:25:11.286Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/2026/03/18/android-security-bulletin-index-2026/</loc>
+    
+    <lastmod>2026-10-05T09:24:51.998Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/about/index.html</loc>
+    
+    <lastmod>2026-10-05T09:23:00.173Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.canyie.top/2026/06/09/android-security-tricks/</loc>
+    
+    <lastmod>2026-09-21T10:06:40.475Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.canyie.top/2026/09/09/LSPromise/</loc>
     
     <lastmod>2026-09-09T02:11:47.011Z</lastmod>
@@ -9,30 +37,9 @@
   </url>
   
   <url>
-    <loc>https://blog.canyie.top/2026/06/09/android-security-tricks/</loc>
-    
-    <lastmod>2026-08-31T06:28:53.814Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.canyie.top/2025/01/29/android-security-bulletin-index-2025/</loc>
     
     <lastmod>2026-08-07T04:35:00.255Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.canyie.top/2026/03/18/android-security-bulletin-index-2026/</loc>
-    
-    <lastmod>2026-08-07T04:34:49.297Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.canyie.top/about/index.html</loc>
-    
-    <lastmod>2026-07-30T11:50:00.691Z</lastmod>
     
   </url>
   
@@ -61,13 +68,6 @@
     <loc>https://blog.canyie.top/2024/04/18/android-security-bulletin-index/</loc>
     
     <lastmod>2026-05-07T01:49:28.844Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.canyie.top/friends/index.html</loc>
-    
-    <lastmod>2026-04-28T09:37:06.213Z</lastmod>
     
   </url>
   
